@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bookstore>
+<book>
+<name> A song of Ice and Fire </name>
+<author> George R.R Martin</author>
+<language> English</language>
+<genre> Epic fantasy</genre>
+</book>
+<book>
+<name> Tunturu </name>
+<author> Panchathantra</author>
+<language> Kannada</language>
+<genre> Kids</genre>
+</book>
+<book>
+<name> Game of Thrones </name>
+<author> George R.R Martin</author>
+<language> English</language>
+<genre> Epic fantasy</genre>
+</book>
+</bookstore>

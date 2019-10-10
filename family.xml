@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<!DOCTYPE family SYSTEM "family.dtd">
+<family>
+    <person name="Joe Miller" gender="Male" type="Father" id="id_123.4563.789" />
+    <person name="Suraj" gender="Female" type="Girl" id="id_123.456.789"/>
+</family>

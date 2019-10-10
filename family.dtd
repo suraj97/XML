@@ -1,0 +1,6 @@
+<!ELEMENT  family (person)+>
+<!ELEMENT person EMPTY>
+<!ATTLIST person name CDATA #REQUIRED>
+<!ATTLIST person gender (Male|Female) #IMPLIED>
+<!ATTLIST person type (Mother|Father|Boy|Girl) "Mother">
+<!ATTLIST person id ID #REQUIRED>

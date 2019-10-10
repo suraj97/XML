@@ -1,0 +1,35 @@
+CATALOG {
+    background-color: red   ;
+    width: 100%;
+    width: 5000px;
+    height:5000px;
+    float: left;
+    padding: 10px;
+    text-align: justify;
+    color: blue;
+    background-image: url("water.jpg");
+    height: 700px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+CD {
+    display: block;
+    margin-bottom: 30pt;
+    margin-left: 0;
+}
+TITLE {
+    display: block;
+    color: #ff0000;
+    font-size: 20pt;
+}
+ARTIST {
+    display: block;
+    color: #0000ff;
+    font-size: 20pt;
+}
+COUNTRY, PRICE, YEAR, COMPANY {
+    display: block;
+    color: #000000;
+    margin-left: 20pt;
+}
